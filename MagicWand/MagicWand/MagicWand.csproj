@@ -53,7 +53,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MagicWand.xml" />
+    <Content Include="..\..\..\..\..\..\ProgramData\Autodesk\Revit\Addins\2017\MagicWand.addin" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
