@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>PLACE PATH HERE</Assembly>
+    <AddInId>BE82DDC6-A867-4FAA-86E0-211CD88F192E</AddInId>
+    <FullClassName>MagicWand.Class1</FullClassName>
+    <Text>MagicWand</Text>
+    <VendorId>NAME</VendorId>
+    <VendorDescription>Company Information</VendorDescription>
+  </AddIn>
+</RevitAddIns>
+
